@@ -1,12 +1,7 @@
 import logging
 
 
-def setup_logging(script_name):
-    logger = logging.getLogger(script_name)
-    if not logger.handlers:
-        logger.setLevel(logging.DEBUG)
-        # Create a file handler for the script
-        handler = logging.FileHandler(f'import logging
+
 
 
 def setup_logging(script_name):
