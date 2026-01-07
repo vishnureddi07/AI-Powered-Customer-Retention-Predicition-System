@@ -17,11 +17,16 @@ Visualize important features using appropriate charts
 Prepare clean, structured data for future machine learning models
 
 🗺️ Project Roadmap
-Stage	Task	Status
-Stage 1	Data Understanding & Documentation	✅ Completed
-Stage 2	Data Cleaning & Exploratory Data Analysis (EDA)	⏳ Pending
-Stage 3	Model Development	⏳ Pending
-Stage 4	Explainability & Deployment	⏳ Pending
+
+| Stage   | Task                                            | Status      |
+| ------- | ----------------------------------------------- | ----------- |
+| Stage 1 | Data Understanding & Documentation              | ✅ Completed |
+| Stage 2 | Data Cleaning & Exploratory Data Analysis (EDA) | ⏳ Pending   |
+| Stage 3 | Model Development                               | ⏳ Pending   |
+| Stage 4 | Explainability & Deployment                     | ⏳ Pending   |
+
+
+
 📂 Dataset Information
 
 Dataset Name: Telco Customer Churn
